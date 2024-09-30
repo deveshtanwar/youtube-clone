@@ -1,0 +1,49 @@
+.horizontal-menu {
+    margin-top: 50px;
+    width: calc(100vw - 220px);
+    margin-left: 220px;
+}
+
+.wrapper {
+    background-color: #212121;
+    color: white;
+    display: flex;
+    overflow-x: auto;
+    transition: 0.5s;
+    padding-left: 14px;
+
+}
+
+.chips {
+    margin: 12px 6px;
+    padding: 6px 12px;
+    background-color: #373737;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 16px;
+    white-space: nowrap;
+    cursor: pointer;
+    color: #c7c7c7;
+    font-size: 14px;
+}
+
+.chips:hover {
+    background-color: #4d4d4d;
+}
+
+.wrapper::-webkit-scrollbar {
+    height: 4px;
+}
+
+@media screen and (max-width : 1599px) {
+    .horizontal-menu {
+        width: calc(100vw - 68px);
+        margin-left: 68px;
+    }
+}
+
+@media screen and (max-width : 600px) {
+    .horizontal-menu {
+        width: 100vw;
+        margin-left: 0px;
+    }
+}

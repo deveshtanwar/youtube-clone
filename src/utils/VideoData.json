@@ -1,0 +1,92 @@
+[
+    {
+        "videoThumbnailUrl": "https://i.ytimg.com/vi/3jZ5vnv-LZc/hqdefault.jpg",
+        "timeStamp": "12:34",
+        "videoTitle": "Learn JavaScript in 12 Minutes",
+        "channelName": "Tech Talk",
+        "channelImage": "https://yt3.ggpht.com/ytc/AIdro_lWPxIlzgSj_ZBHrtdkhBAxo5_WpUPvRs2Zxo8G8DdOloE=s68-c-k-c0x00ffffff-no-rj",
+        "views": "428k",
+        "uploadedDate": "2 years ago"
+    },
+    {
+        "videoThumbnailUrl": "https://i.ytimg.com/vi/kMLocRl4WBw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9Nh_hV1-ckwoGh5-Ectek8gQaRA",
+        "timeStamp": "8:02",
+        "videoTitle": "React.js Crash Course",
+        "channelName": "Code Academy",
+        "channelImage": "https://yt3.ggpht.com/ytc/AIdro_lWPxIlzgSj_ZBHrtdkhBAxo5_WpUPvRs2Zxo8G8DdOloE=s68-c-k-c0x00ffffff-no-rj",
+        "views": "1.2M",
+        "uploadedDate": "1 year ago"
+    },
+    {
+        "videoThumbnailUrl": "https://i.ytimg.com/vi/rGpYoVsCTdg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA72Jt7DHCelPOoOAMCYR80rUyRSA",
+        "timeStamp": "16:45",
+        "videoTitle": "Mastering Python for Data Science",
+        "channelName": "Python Guru",
+        "channelImage": "https://yt3.ggpht.com/ytc/AIdro_lWPxIlzgSj_ZBHrtdkhBAxo5_WpUPvRs2Zxo8G8DdOloE=s68-c-k-c0x00ffffff-no-rj",
+        "views": "560k",
+        "uploadedDate": "3 years ago"
+    },
+    {
+        "videoThumbnailUrl": "https://i.ytimg.com/vi/zpOULjyy-n8/hqdefault.jpg",
+        "timeStamp": "22:10",
+        "videoTitle": "Deep Learning with TensorFlow",
+        "channelName": "AI Academy",
+        "channelImage": "https://yt3.ggpht.com/ytc/AIdro_lWPxIlzgSj_ZBHrtdkhBAxo5_WpUPvRs2Zxo8G8DdOloE=s68-c-k-c0x00ffffff-no-rj",
+        "views": "738k",
+        "uploadedDate": "4 months ago"
+    },
+    {
+        "videoThumbnailUrl": "https://i.ytimg.com/vi/LXb3EKWsInQ/hqdefault.jpg",
+        "timeStamp": "18:37",
+        "videoTitle": "Ultimate Guide to CSS Grid",
+        "channelName": "Web Dev Simplified",
+        "channelImage": "https://yt3.ggpht.com/ytc/AIdro_lWPxIlzgSj_ZBHrtdkhBAxo5_WpUPvRs2Zxo8G8DdOloE=s68-c-k-c0x00ffffff-no-rj",
+        "views": "890k",
+        "uploadedDate": "9 months ago"
+    },
+    {
+        "videoThumbnailUrl": "https://i.ytimg.com/vi/oHg5SJYRHA0/hqdefault.jpg",
+        "timeStamp": "5:21",
+        "videoTitle": "Intro to Git and GitHub",
+        "channelName": "Version Control",
+        "channelImage": "https://yt3.ggpht.com/ytc/AIdro_lWPxIlzgSj_ZBHrtdkhBAxo5_WpUPvRs2Zxo8G8DdOloE=s68-c-k-c0x00ffffff-no-rj",
+        "views": "2M",
+        "uploadedDate": "5 years ago"
+    },
+    {
+        "videoThumbnailUrl": "https://i.ytimg.com/vi/VYOjWnS4cMY/hqdefault.jpg",
+        "timeStamp": "10:50",
+        "videoTitle": "Introduction to Blockchain",
+        "channelName": "Crypto Insights",
+        "channelImage": "https://yt3.ggpht.com/ytc/AIdro_lWPxIlzgSj_ZBHrtdkhBAxo5_WpUPvRs2Zxo8G8DdOloE=s68-c-k-c0x00ffffff-no-rj",
+        "views": "320k",
+        "uploadedDate": "1 year ago"
+    },
+    {
+        "videoThumbnailUrl": "https://i.ytimg.com/vi/NLqAF9hrVbY/hqdefault.jpg",
+        "timeStamp": "14:32",
+        "videoTitle": "Docker Basics Tutorial",
+        "channelName": "DevOps Master",
+        "channelImage": "https://yt3.ggpht.com/ytc/AIdro_lWPxIlzgSj_ZBHrtdkhBAxo5_WpUPvRs2Zxo8G8DdOloE=s68-c-k-c0x00ffffff-no-rj",
+        "views": "900k",
+        "uploadedDate": "3 years ago"
+    },
+    {
+        "videoThumbnailUrl": "https://i.ytimg.com/vi/3fumBcKC6RE/hqdefault.jpg",
+        "timeStamp": "6:45",
+        "videoTitle": "Node.js REST API Tutorial",
+        "channelName": "Code with Node",
+        "channelImage": "https://yt3.ggpht.com/ytc/AIdro_lWPxIlzgSj_ZBHrtdkhBAxo5_WpUPvRs2Zxo8G8DdOloE=s68-c-k-c0x00ffffff-no-rj",
+        "views": "512k",
+        "uploadedDate": "2 years ago"
+    },
+    {
+        "videoThumbnailUrl": "https://i.ytimg.com/vi/kTJczUoc26U/hqdefault.jpg",
+        "timeStamp": "7:30",
+        "videoTitle": "Full-Stack Web Development Guide",
+        "channelName": "FullStack Tutorials",
+        "channelImage": "https://yt3.ggpht.com/ytc/AIdro_lWPxIlzgSj_ZBHrtdkhBAxo5_WpUPvRs2Zxo8G8DdOloE=s68-c-k-c0x00ffffff-no-rj",
+        "views": "1.1M",
+        "uploadedDate": "6 months ago"
+    }
+]
