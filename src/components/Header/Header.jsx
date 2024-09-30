@@ -10,7 +10,7 @@ const Header = () => {
                 </div>
                 <div className={styles['logo']}>
                     <div className={styles['logo-image']}>
-                        <img src='/images/logo.png' alt="youtube-logo" />
+                        <img src='/youtube-clone/images/logo.png' alt="youtube-logo" />
                     </div>
                     <div className={styles['logo-text']}>
                         YouTube
